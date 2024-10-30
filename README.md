@@ -1,2 +1,2 @@
 # machine-learning-basics
-Repositório com conteúdo prático do curso "Machine Learning para Análise de Dados," ministrado pelo professor Nelson Koshoji na XI Semana de Tecnologia da Fatec Campinas.
+Repository containing practical content from the "Machine Learning for Data Analysis" course, taught by Professor Nelson Koshoji during the XI Technology Week at Fatec Campinas.
